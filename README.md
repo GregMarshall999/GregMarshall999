@@ -1,10 +1,5 @@
-- 👋 Hi, I’m Greg
-- 👀 I’m interested in code!
-- 🌱 I’m currently working on web projects
-- 💞️ I’m looking to collaborate on stuff
-- 📫 How to reach me gregory.marshall999@gmail.com
+👋 Hi, I’m Greg, a software engineer who can't go out for a day without some code under his eyes.
+I'm mostly focused on Fullstack Development with Vue.js and Java, but I am extending my interests day after day.
 
-<!---
-GregMarshall999/GregMarshall999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Come visit me on https://www.greg-labs.com <- My portfolio of various projects I made. 
+Pop over to the contact page and send me a message!
